@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackagingPortal.Api", "PackagingPortal.Api\PackagingPortal.Api.csproj", "{3A8DE998-F31B-4166-A4A4-5C41CFC6D82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8DE998-F31B-4166-A4A4-5C41CFC6D82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8DE998-F31B-4166-A4A4-5C41CFC6D82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8DE998-F31B-4166-A4A4-5C41CFC6D82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8DE998-F31B-4166-A4A4-5C41CFC6D82E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACFB711-3B79-49A0-B43D-0E1F1B20D451}
+	EndGlobalSection
+EndGlobal
