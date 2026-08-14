@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackagingPortal.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+297b9240edcc36bb69c4009c862f1ce86e715796")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27e5069420c89dfb690851a524fe3d73eb80722")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackagingPortal.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackagingPortal.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

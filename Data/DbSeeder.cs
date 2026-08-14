@@ -7,13 +7,12 @@ public static class DbSeeder
 {
     public static async Task SeedAsync(AppDbContext context)
     {
-        // Seed admin user if none exists
         if (!await context.AdminUsers.AnyAsync())
         {
             var admin = new AdminUser
             {
                 Username = "admin",
-                PasswordHash = BCrypt.Net.BCrypt.HashPassword("admin@123"),
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword("Admin@123"),
                 CreatedAt = DateTime.UtcNow
             };
             context.AdminUsers.Add(admin);

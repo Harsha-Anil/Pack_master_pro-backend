@@ -136,3 +136,4 @@ C:\packaging-manufacturing\backend\PackagingPortal\PackagingPortal.Api\obj\Debug
 C:\packaging-manufacturing\backend\PackagingPortal\PackagingPortal.Api\obj\Debug\net8.0\PackagingPortal.Api.genruntimeconfig.cache
 C:\packaging-manufacturing\backend\PackagingPortal\PackagingPortal.Api\obj\Debug\net8.0\ref\PackagingPortal.Api.dll
 C:\packaging-manufacturing\backend\PackagingPortal\PackagingPortal.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\packaging-manufacturing\backend\PackagingPortal\PackagingPortal.Api\obj\Debug\net8.0\PackagingPortal.Api.sourcelink.json
